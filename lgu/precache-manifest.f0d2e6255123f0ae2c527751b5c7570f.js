@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "234e78dbb39e30828a6f5bbe98c2b9ff",
+    "revision": "087e5045afc9e556016109944fc4db02",
     "url": "/marina/module/lgu/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marina/module/lgu/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "9d74988a307c197754ab",
+    "revision": "d5c90e8d2c3d0a7c39b6",
     "url": "/marina/module/lgu/static/css/main.112126e9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/marina/module/lgu/static/js/2.f9f69580.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d74988a307c197754ab",
-    "url": "/marina/module/lgu/static/js/main.52282aa9.chunk.js"
+    "revision": "d5c90e8d2c3d0a7c39b6",
+    "url": "/marina/module/lgu/static/js/main.16271ab2.chunk.js"
   },
   {
     "revision": "ca0c44fa71c3ac10de0a",

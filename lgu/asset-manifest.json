@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/marina/module/lgu/static/css/main.112126e9.chunk.css",
-    "main.js": "/marina/module/lgu/static/js/main.16271ab2.chunk.js",
-    "main.js.map": "/marina/module/lgu/static/js/main.16271ab2.chunk.js.map",
+    "main.js": "/marina/module/lgu/static/js/main.865cc9d0.chunk.js",
+    "main.js.map": "/marina/module/lgu/static/js/main.865cc9d0.chunk.js.map",
     "runtime-main.js": "/marina/module/lgu/static/js/runtime-main.c0833273.js",
     "runtime-main.js.map": "/marina/module/lgu/static/js/runtime-main.c0833273.js.map",
     "static/css/2.af3c1da9.chunk.css": "/marina/module/lgu/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f9f69580.chunk.js": "/marina/module/lgu/static/js/2.f9f69580.chunk.js",
-    "static/js/2.f9f69580.chunk.js.map": "/marina/module/lgu/static/js/2.f9f69580.chunk.js.map",
+    "static/js/2.b6c4e34e.chunk.js": "/marina/module/lgu/static/js/2.b6c4e34e.chunk.js",
+    "static/js/2.b6c4e34e.chunk.js.map": "/marina/module/lgu/static/js/2.b6c4e34e.chunk.js.map",
     "index.html": "/marina/module/lgu/index.html",
-    "precache-manifest.f0d2e6255123f0ae2c527751b5c7570f.js": "/marina/module/lgu/precache-manifest.f0d2e6255123f0ae2c527751b5c7570f.js",
+    "precache-manifest.ed0c89ad3c2e197bda61437a15f072e6.js": "/marina/module/lgu/precache-manifest.ed0c89ad3c2e197bda61437a15f072e6.js",
     "service-worker.js": "/marina/module/lgu/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/marina/module/lgu/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.112126e9.chunk.css.map": "/marina/module/lgu/static/css/main.112126e9.chunk.css.map",
-    "static/js/2.f9f69580.chunk.js.LICENSE.txt": "/marina/module/lgu/static/js/2.f9f69580.chunk.js.LICENSE.txt",
-    "static/media/app.apk": "/marina/module/lgu/static/media/app.25bc7560.apk",
+    "static/js/2.b6c4e34e.chunk.js.LICENSE.txt": "/marina/module/lgu/static/js/2.b6c4e34e.chunk.js.LICENSE.txt",
+    "static/media/app.apk": "/marina/module/lgu/static/media/app.96c77f19.apk",
     "static/media/dto.png": "/marina/module/lgu/static/media/dto.1f15fbb3.png",
     "static/media/logo.png": "/marina/module/lgu/static/media/logo.3d4d22a6.png",
     "static/media/user-manual.pdf": "/marina/module/lgu/static/media/user-manual.066df2ab.pdf"
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.c0833273.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.f9f69580.chunk.js",
+    "static/js/2.b6c4e34e.chunk.js",
     "static/css/main.112126e9.chunk.css",
-    "static/js/main.16271ab2.chunk.js"
+    "static/js/main.865cc9d0.chunk.js"
   ]
 }

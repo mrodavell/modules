@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/marina/module/transport/static/css/main.112126e9.chunk.css",
-    "main.js": "/marina/module/transport/static/js/main.825da508.chunk.js",
-    "main.js.map": "/marina/module/transport/static/js/main.825da508.chunk.js.map",
+    "main.js": "/marina/module/transport/static/js/main.8059b912.chunk.js",
+    "main.js.map": "/marina/module/transport/static/js/main.8059b912.chunk.js.map",
     "runtime-main.js": "/marina/module/transport/static/js/runtime-main.9db7e8aa.js",
     "runtime-main.js.map": "/marina/module/transport/static/js/runtime-main.9db7e8aa.js.map",
     "static/css/2.af3c1da9.chunk.css": "/marina/module/transport/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.7c617071.chunk.js": "/marina/module/transport/static/js/2.7c617071.chunk.js",
-    "static/js/2.7c617071.chunk.js.map": "/marina/module/transport/static/js/2.7c617071.chunk.js.map",
+    "static/js/2.8f6bfcaa.chunk.js": "/marina/module/transport/static/js/2.8f6bfcaa.chunk.js",
+    "static/js/2.8f6bfcaa.chunk.js.map": "/marina/module/transport/static/js/2.8f6bfcaa.chunk.js.map",
     "index.html": "/marina/module/transport/index.html",
-    "precache-manifest.354478c7a44bec08a5578e3f3f08dbc2.js": "/marina/module/transport/precache-manifest.354478c7a44bec08a5578e3f3f08dbc2.js",
+    "precache-manifest.1261e18d89ed1d5adaf640b38156d7f5.js": "/marina/module/transport/precache-manifest.1261e18d89ed1d5adaf640b38156d7f5.js",
     "service-worker.js": "/marina/module/transport/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/marina/module/transport/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.112126e9.chunk.css.map": "/marina/module/transport/static/css/main.112126e9.chunk.css.map",
-    "static/js/2.7c617071.chunk.js.LICENSE.txt": "/marina/module/transport/static/js/2.7c617071.chunk.js.LICENSE.txt",
+    "static/js/2.8f6bfcaa.chunk.js.LICENSE.txt": "/marina/module/transport/static/js/2.8f6bfcaa.chunk.js.LICENSE.txt",
     "static/media/dto.png": "/marina/module/transport/static/media/dto.1f15fbb3.png",
     "static/media/logo.png": "/marina/module/transport/static/media/logo.3d4d22a6.png",
     "static/media/manifest-template.xlsx": "/marina/module/transport/static/media/manifest-template.93bdb522.xlsx"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.9db7e8aa.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.7c617071.chunk.js",
+    "static/js/2.8f6bfcaa.chunk.js",
     "static/css/main.112126e9.chunk.css",
-    "static/js/main.825da508.chunk.js"
+    "static/js/main.8059b912.chunk.js"
   ]
 }

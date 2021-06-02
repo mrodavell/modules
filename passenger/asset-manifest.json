@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/marina/module/passenger/static/css/main.efa24a17.chunk.css",
-    "main.js": "/marina/module/passenger/static/js/main.a49bc4cf.chunk.js",
-    "main.js.map": "/marina/module/passenger/static/js/main.a49bc4cf.chunk.js.map",
+    "main.js": "/marina/module/passenger/static/js/main.399751f4.chunk.js",
+    "main.js.map": "/marina/module/passenger/static/js/main.399751f4.chunk.js.map",
     "runtime-main.js": "/marina/module/passenger/static/js/runtime-main.ae3860f3.js",
     "runtime-main.js.map": "/marina/module/passenger/static/js/runtime-main.ae3860f3.js.map",
     "static/css/2.b0704b7a.chunk.css": "/marina/module/passenger/static/css/2.b0704b7a.chunk.css",
     "static/js/2.619d70ad.chunk.js": "/marina/module/passenger/static/js/2.619d70ad.chunk.js",
     "static/js/2.619d70ad.chunk.js.map": "/marina/module/passenger/static/js/2.619d70ad.chunk.js.map",
     "index.html": "/marina/module/passenger/index.html",
-    "precache-manifest.b2697739ab6e5f62315bb78373eb4a9a.js": "/marina/module/passenger/precache-manifest.b2697739ab6e5f62315bb78373eb4a9a.js",
+    "precache-manifest.471e0a17ac4cc808b678288104ea8b0e.js": "/marina/module/passenger/precache-manifest.471e0a17ac4cc808b678288104ea8b0e.js",
     "service-worker.js": "/marina/module/passenger/service-worker.js",
     "static/css/2.b0704b7a.chunk.css.map": "/marina/module/passenger/static/css/2.b0704b7a.chunk.css.map",
     "static/css/main.efa24a17.chunk.css.map": "/marina/module/passenger/static/css/main.efa24a17.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.b0704b7a.chunk.css",
     "static/js/2.619d70ad.chunk.js",
     "static/css/main.efa24a17.chunk.css",
-    "static/js/main.a49bc4cf.chunk.js"
+    "static/js/main.399751f4.chunk.js"
   ]
 }

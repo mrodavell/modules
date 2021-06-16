@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/marina/module/passenger/static/css/main.73562d31.chunk.css",
-    "main.js": "/marina/module/passenger/static/js/main.84242426.chunk.js",
-    "main.js.map": "/marina/module/passenger/static/js/main.84242426.chunk.js.map",
+    "main.css": "/marina/module/passenger/static/css/main.942aa1d3.chunk.css",
+    "main.js": "/marina/module/passenger/static/js/main.795ec74e.chunk.js",
+    "main.js.map": "/marina/module/passenger/static/js/main.795ec74e.chunk.js.map",
     "runtime-main.js": "/marina/module/passenger/static/js/runtime-main.ae3860f3.js",
     "runtime-main.js.map": "/marina/module/passenger/static/js/runtime-main.ae3860f3.js.map",
     "static/css/2.b0704b7a.chunk.css": "/marina/module/passenger/static/css/2.b0704b7a.chunk.css",
-    "static/js/2.619d70ad.chunk.js": "/marina/module/passenger/static/js/2.619d70ad.chunk.js",
-    "static/js/2.619d70ad.chunk.js.map": "/marina/module/passenger/static/js/2.619d70ad.chunk.js.map",
+    "static/js/2.661399a6.chunk.js": "/marina/module/passenger/static/js/2.661399a6.chunk.js",
+    "static/js/2.661399a6.chunk.js.map": "/marina/module/passenger/static/js/2.661399a6.chunk.js.map",
     "index.html": "/marina/module/passenger/index.html",
-    "precache-manifest.aadd7434e9e46c40b4d67b737076fc4d.js": "/marina/module/passenger/precache-manifest.aadd7434e9e46c40b4d67b737076fc4d.js",
+    "precache-manifest.56012f8765309724e4218540ca7e8a0a.js": "/marina/module/passenger/precache-manifest.56012f8765309724e4218540ca7e8a0a.js",
     "service-worker.js": "/marina/module/passenger/service-worker.js",
     "static/css/2.b0704b7a.chunk.css.map": "/marina/module/passenger/static/css/2.b0704b7a.chunk.css.map",
-    "static/css/main.73562d31.chunk.css.map": "/marina/module/passenger/static/css/main.73562d31.chunk.css.map",
-    "static/js/2.619d70ad.chunk.js.LICENSE.txt": "/marina/module/passenger/static/js/2.619d70ad.chunk.js.LICENSE.txt",
+    "static/css/main.942aa1d3.chunk.css.map": "/marina/module/passenger/static/css/main.942aa1d3.chunk.css.map",
+    "static/js/2.661399a6.chunk.js.LICENSE.txt": "/marina/module/passenger/static/js/2.661399a6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/marina/module/passenger/static/media/bg.f79a724d.jpg",
     "static/media/dto.png": "/marina/module/passenger/static/media/dto.1f15fbb3.png",
     "static/media/icon.png": "/marina/module/passenger/static/media/icon.c0920caa.png",
+    "static/media/img_card.jpg": "/marina/module/passenger/static/media/img_card.9baaba41.jpg",
     "static/media/logo.jpg": "/marina/module/passenger/static/media/logo.dc773f1f.jpg",
-    "static/media/marina.png": "/marina/module/passenger/static/media/marina.3d4d22a6.png"
+    "static/media/marina.png": "/marina/module/passenger/static/media/marina.3d4d22a6.png",
+    "static/media/ship.svg": "/marina/module/passenger/static/media/ship.c9ae8cdc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae3860f3.js",
     "static/css/2.b0704b7a.chunk.css",
-    "static/js/2.619d70ad.chunk.js",
-    "static/css/main.73562d31.chunk.css",
-    "static/js/main.84242426.chunk.js"
+    "static/js/2.661399a6.chunk.js",
+    "static/css/main.942aa1d3.chunk.css",
+    "static/js/main.795ec74e.chunk.js"
   ]
 }

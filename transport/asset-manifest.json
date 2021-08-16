@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/marina/module/transport/static/css/main.3e081062.chunk.css",
-    "main.js": "/marina/module/transport/static/js/main.0406f42f.chunk.js",
-    "main.js.map": "/marina/module/transport/static/js/main.0406f42f.chunk.js.map",
+    "main.js": "/marina/module/transport/static/js/main.fbc7f973.chunk.js",
+    "main.js.map": "/marina/module/transport/static/js/main.fbc7f973.chunk.js.map",
     "runtime-main.js": "/marina/module/transport/static/js/runtime-main.9db7e8aa.js",
     "runtime-main.js.map": "/marina/module/transport/static/js/runtime-main.9db7e8aa.js.map",
     "static/css/2.9233ae65.chunk.css": "/marina/module/transport/static/css/2.9233ae65.chunk.css",
     "static/js/2.898fbf19.chunk.js": "/marina/module/transport/static/js/2.898fbf19.chunk.js",
     "static/js/2.898fbf19.chunk.js.map": "/marina/module/transport/static/js/2.898fbf19.chunk.js.map",
     "index.html": "/marina/module/transport/index.html",
-    "precache-manifest.722ab8977b66d9d0ed5d8839ae2b090c.js": "/marina/module/transport/precache-manifest.722ab8977b66d9d0ed5d8839ae2b090c.js",
+    "precache-manifest.f2ca9d450e2a3bd2b9e14bff61fa7242.js": "/marina/module/transport/precache-manifest.f2ca9d450e2a3bd2b9e14bff61fa7242.js",
     "service-worker.js": "/marina/module/transport/service-worker.js",
     "static/css/2.9233ae65.chunk.css.map": "/marina/module/transport/static/css/2.9233ae65.chunk.css.map",
     "static/css/main.3e081062.chunk.css.map": "/marina/module/transport/static/css/main.3e081062.chunk.css.map",
@@ -26,6 +26,6 @@
     "static/css/2.9233ae65.chunk.css",
     "static/js/2.898fbf19.chunk.js",
     "static/css/main.3e081062.chunk.css",
-    "static/js/main.0406f42f.chunk.js"
+    "static/js/main.fbc7f973.chunk.js"
   ]
 }

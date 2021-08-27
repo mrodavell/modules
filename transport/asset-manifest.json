@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marina/module/transport/static/css/main.3e081062.chunk.css",
+    "main.css": "/marina/module/transport/static/css/main.55aadc0d.chunk.css",
     "main.js": "/marina/module/transport/static/js/main.fbc7f973.chunk.js",
     "main.js.map": "/marina/module/transport/static/js/main.fbc7f973.chunk.js.map",
     "runtime-main.js": "/marina/module/transport/static/js/runtime-main.9db7e8aa.js",
@@ -9,13 +9,13 @@
     "static/js/2.898fbf19.chunk.js": "/marina/module/transport/static/js/2.898fbf19.chunk.js",
     "static/js/2.898fbf19.chunk.js.map": "/marina/module/transport/static/js/2.898fbf19.chunk.js.map",
     "index.html": "/marina/module/transport/index.html",
-    "precache-manifest.f2ca9d450e2a3bd2b9e14bff61fa7242.js": "/marina/module/transport/precache-manifest.f2ca9d450e2a3bd2b9e14bff61fa7242.js",
+    "precache-manifest.2792767cf1ea62a73294069ff7f6e508.js": "/marina/module/transport/precache-manifest.2792767cf1ea62a73294069ff7f6e508.js",
     "service-worker.js": "/marina/module/transport/service-worker.js",
     "static/css/2.9233ae65.chunk.css.map": "/marina/module/transport/static/css/2.9233ae65.chunk.css.map",
-    "static/css/main.3e081062.chunk.css.map": "/marina/module/transport/static/css/main.3e081062.chunk.css.map",
+    "static/css/main.55aadc0d.chunk.css.map": "/marina/module/transport/static/css/main.55aadc0d.chunk.css.map",
     "static/js/2.898fbf19.chunk.js.LICENSE.txt": "/marina/module/transport/static/js/2.898fbf19.chunk.js.LICENSE.txt",
     "static/media/Template.xlsx": "/marina/module/transport/static/media/Template.06118ea9.xlsx",
-    "static/media/index.css": "/marina/module/transport/static/media/bg.4b7c6a2e.jpg",
+    "static/media/index.css": "/marina/module/transport/static/media/bg.2570a8e8.svg",
     "static/media/dto.png": "/marina/module/transport/static/media/dto.1f15fbb3.png",
     "static/media/icon.png": "/marina/module/transport/static/media/icon.c0920caa.png",
     "static/media/logo.jpg": "/marina/module/transport/static/media/logo.dc773f1f.jpg",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.9db7e8aa.js",
     "static/css/2.9233ae65.chunk.css",
     "static/js/2.898fbf19.chunk.js",
-    "static/css/main.3e081062.chunk.css",
+    "static/css/main.55aadc0d.chunk.css",
     "static/js/main.fbc7f973.chunk.js"
   ]
 }
